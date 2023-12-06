@@ -16,3 +16,6 @@
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilliai" /> </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<div align="center">
+   <img width="70%" height="70%" src="https://moe-counter.glitch.me/get/@:avilliai" alt="logo"></br>
+</div>
