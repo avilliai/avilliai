@@ -13,7 +13,7 @@
 | [Manyana](https://github.com/avilliai/Manyana) | 一个基于mirai框架的机器人 | 在做NTQQ版 |
 | [library](https://github.com/avilliai/library) | 书单              | 不是很常更新  |
 
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilliai" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilliai" /> </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <div align="center">
