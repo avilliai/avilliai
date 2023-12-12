@@ -1,6 +1,7 @@
 
 <a href="https://space.bilibili.com/1493391430" target="_blank"><img width="100%" src="https://github.com/avilliai/avilliai/blob/main/689D895D76F2E41D84B094651F53BC97.jpg"/></a>
-学政治的，这里主要是一些政治学/社会学/现代性相关的笔记<br>
+学政治的，这里主要是一些政治学/社会学相关的笔记<br>
+#现代性 #比较政治学 #政治社会学 #西方哲学
 
 博客: [cumulus](https://avilliai.github.io/)<br>
 笔记仓库：[Cumulus](https://cumulus-clouds.netlify.app/)<br>
