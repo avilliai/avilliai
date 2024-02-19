@@ -1,7 +1,6 @@
 
 <a href="https://space.bilibili.com/1493391430" target="_blank"><img width="100%" src="https://github.com/avilliai/avilliai/blob/main/689D895D76F2E41D84B094651F53BC97.jpg"/></a>
 学政治的，这里主要是一些政治学/社会学相关的笔记<br>
-#现代性 #比较政治学 #政治社会学 #西方哲学
 
 博客: [cumulus](https://avilliai.github.io/)<br>
 笔记仓库：[Cumulus](https://cumulus-clouds.netlify.app/)<br>
@@ -13,7 +12,6 @@
 | 仓库                                             | 简介              | 其他      |
 |------------------------------------------------|-----------------|---------|
 | [Manyana](https://github.com/avilliai/Manyana) | 一个基于mirai框架的机器人 | 在做NTQQ版 |
-| [library](https://github.com/avilliai/library) | 书单              | 不是很常更新  |
 
 ---
 
