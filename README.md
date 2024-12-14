@@ -1,6 +1,6 @@
 
 <a href="https://space.bilibili.com/1493391430" target="_blank"><img width="100%" src="https://github.com/avilliai/avilliai/blob/main/689D895D76F2E41D84B094651F53BC97.jpg"/></a>
-业余选手<br>
+<br>
 
 https://avilliai.github.io/
 
