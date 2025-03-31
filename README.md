@@ -12,7 +12,7 @@ https://avilliai.github.io/
 
 | 仓库                                             | 简介              | 其他      |
 |------------------------------------------------|-----------------|---------|
-| [Manyana](https://github.com/avilliai/Manyana) | 一个基于mirai框架的机器人 | 在做NTQQ版 |
+| [Manyana](https://github.com/avilliai/Manyana) | 一个基于mirai框架的机器人 | |
 
 ---
 
